@@ -1,0 +1,6 @@
+Full name: Zama
+age: 25
+Date: 25
+Time: 25
+Comments: hello
+Assistant: no

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VisitorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-17T14:54:48" hostname="recruit-Lenovo-Product" time="0.438">
+  <properties/>
+  <testcase name="load()" classname="VisitorTest" time="0.438"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
