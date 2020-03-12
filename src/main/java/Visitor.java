@@ -15,31 +15,7 @@ public class Visitor {
     String comments;
     String assistant;
 
-    public static void main(String[] args) {
-        Scanner enter = new Scanner(System.in);
 
-        System.out.println("Enter full name:");
-        String fullName = enter.next();
-
-        System.out.println("age:");
-        int age = enter.nextInt();
-
-        System.out.println("Enter date");
-        int date = enter.nextInt();
-
-        System.out.println("Enter time");
-        int time = enter.nextInt();
-
-        System.out.println("Enter comments");
-        String comments = enter.next();
-
-        System.out.println("Enter assistant");
-        String assistant = enter.next();
-
-        save(fullName,age,date,time,comments,assistant);
-        load(fullName);
-
-    }
     public static String save(String fullName, int age, int date, int time, String comments, String assistant) {
         fullName.replace(" ","_");
         try {
